@@ -11,9 +11,7 @@ void quicksort(int n){
 void mergesort(){
 	//
 }
-void insertionsort(){
-	//
-}
+
 int main() {
 	// your code goes here
 	int t;
